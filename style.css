@@ -136,10 +136,18 @@ section h2 {
   margin-bottom: 20px;
 }
 
+section h3 {
+  font-size: 20px;
+  margin-bottom: 12px;
+  margin-top: 40px;
+  color: #c8a864;
+}
+
 section > .container > p {
   color: #a8a6a2;
-  max-width: 600px;
-  margin-bottom: 48px;
+  max-width: 700px;
+  margin-bottom: 24px;
+  line-height: 1.8;
 }
 
 .values {
